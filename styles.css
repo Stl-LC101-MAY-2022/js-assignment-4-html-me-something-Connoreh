@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+.column {
+    color: blue;
+    display: inline-block;
+   
+}
+ body {
+    margin: 8px;
+    display: block;
+    background-color:lightblue;
+ }
+
+ #mainHeading {
+    color:red;
+ }
+ .funParagraph {
+    color: green;
+ }
+ h1 {
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    
+ }
+ p {
+    margin: 50 0 0px 0;
+ }
+ #testP {
+    font-size: 20px;
+ }
+
+h2{
+    padding: 50px 50px 50px 50px;
+ }
+
+ img {
+    float: left;
+ }
+ 
